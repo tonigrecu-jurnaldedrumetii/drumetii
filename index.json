@@ -1,0 +1,42 @@
+{
+  "updated": "2026-03-28T11:39:11.252Z",
+  "coverUrl": "https://raw.githubusercontent.com/tonigrecu-jurnaldedrumetii/drumetii/main/images/cover.webp",
+  "totalTrails": 49,
+  "totalKm": 663.28,
+  "totalElevGain": 42513,
+  "totalElevLoss": 43361,
+  "totalHours": 344,
+  "uniqueDays": 47,
+  "years": [
+    {
+      "year": "2013",
+      "count": 2,
+      "km": 27.8,
+      "file": "data/2013.json"
+    },
+    {
+      "year": "2014",
+      "count": 8,
+      "km": 120,
+      "file": "data/2014.json"
+    },
+    {
+      "year": "2015",
+      "count": 23,
+      "km": 325.2,
+      "file": "data/2015.json"
+    },
+    {
+      "year": "2016",
+      "count": 15,
+      "km": 187.2,
+      "file": "data/2016.json"
+    },
+    {
+      "year": "2017",
+      "count": 1,
+      "km": 3.1,
+      "file": "data/2017.json"
+    }
+  ]
+}
