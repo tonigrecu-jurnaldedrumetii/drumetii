@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - https://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Wikiloc - Cotețul Dobrestilor</name>
+    <author>
+      <name>Toni Grecu</name>
+      <link href="https://www.wikiloc.com/wikiloc/user.do?id=2082631">
+        <text>Toni Grecu on Wikiloc</text>
+      </link>
+    </author>
+    <link href="https://www.wikiloc.com/hiking-trails/cotetul-dobrestilor-17556658">
+      <text>Cotețul Dobrestilor on Wikiloc</text>
+    </link>
+    <time>2017-04-29T10:05:30Z</time>
+  </metadata>
+  <wpt lat="46.478241" lon="22.808874">
+    <ele>783.0</ele>
+    <time>2017-05-03T11:56:53.082Z</time>
+    <name>Cotețul dobrestilir</name>
+    <cmt>Cotețul dobrestilir</cmt>
+    <desc>Cotețul dobrestilir</desc>
+  </wpt>
+  <wpt lat="46.478361" lon="22.809376">
+    <ele>811.0</ele>
+    <time>2017-05-03T11:56:53.285Z</time>
+    <name>Izbucul cotețul dobrestilor </name>
+    <cmt>Izbucul cotețul dobrestilor </cmt>
+    <desc>Izbucul cotețul dobrestilor </desc>
+  </wpt>
+  <trk>
+    <name>Cotețul Dobrestilor - Wikiloc</name>
+    <cmt>Cotețul Dobrestilor</cmt>
+    <desc>Cotețul Dobrestilor</desc>
+    <trkseg>
+      <trkpt lat="46.478174" lon="22.808802">
+        <ele>766.052</ele>
+        <time>2017-04-29T10:00:05Z</time>
+      </trkpt>
+      <trkpt lat="46.478257" lon="22.808874">
+        <ele>791.053</ele>
+        <time>2017-04-29T10:00:27Z</time>
+      </trkpt>
+      <trkpt lat="46.478259" lon="22.809023">
+        <ele>802.008</ele>
+        <time>2017-04-29T10:01:17Z</time>
+      </trkpt>
+      <trkpt lat="46.478253" lon="22.809161">
+        <ele>800.008</ele>
+        <time>2017-04-29T10:01:25Z</time>
+      </trkpt>
+      <trkpt lat="46.478319" lon="22.809259">
+        <ele>802.096</ele>
+        <time>2017-04-29T10:01:33Z</time>
+      </trkpt>
+      <trkpt lat="46.478367" lon="22.809387">
+        <ele>811.072</ele>
+        <time>2017-04-29T10:01:52Z</time>
+      </trkpt>
+      <trkpt lat="46.478284" lon="22.809316">
+        <ele>808.020</ele>
+        <time>2017-04-29T10:05:09Z</time>
+      </trkpt>
+      <trkpt lat="46.478230" lon="22.809177">
+        <ele>802.080</ele>
+        <time>2017-04-29T10:05:19Z</time>
+      </trkpt>
+      <trkpt lat="46.478215" lon="22.809020">
+        <ele>802.071</ele>
+        <time>2017-04-29T10:05:25Z</time>
+      </trkpt>
+      <trkpt lat="46.478220" lon="22.808871">
+        <ele>807.021</ele>
+        <time>2017-04-29T10:05:30Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>
